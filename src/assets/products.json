@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Trouser",
+      "color": "blue",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Hat",
+      "color": "blue"
+    },
+    {
+      "name": "Shirts",
+      "color": "White",
+      "id": 4
+    },
+    {
+      "name": "Tuxedo",
+      "color": "Black",
+      "id": 5
+    },
+    {
+      "name": "Hat",
+      "color": "Green",
+      "id": 6
+    },
+    {
+      "name": "Raincoat",
+      "color": "Variable",
+      "id": 7
+    }
+  ]
+}
